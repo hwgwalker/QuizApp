@@ -5,3 +5,6 @@ Built using:
 - HTML
 - CSS
 - JavaScript
+
+**Link to the project**
+https://gentle-eyrie-23660.herokuapp.com/
