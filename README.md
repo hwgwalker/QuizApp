@@ -8,4 +8,4 @@ Built using:
 
 **Link to the project**
 
-https://gentle-eyrie-23660.herokuapp.com/
+https://amazing-poitras-81a136.netlify.app/
